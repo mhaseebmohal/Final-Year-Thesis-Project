@@ -2,9 +2,9 @@
 
 Dynamic analysis of RCC structure using Autodesk Robot Structural Analysis Software
 
-# Final-Year-Thesis-Project
+# Project-Supervisor: 
 
-Project Supervisor: Assistant Prof. Dr. Engr. Sajjad Ahmad
+Assistant Prof. Dr. Engr. Sajjad Ahmad
 
 # Abstract
 
